@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanTuning&show_icons=true&theme=dark)
 
 <!--
 **EthanTuning/EthanTuning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
