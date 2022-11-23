@@ -1,5 +1,5 @@
-## Hello there! 👋
-### My name is Ethan. I develop internal business applications for the Agriculture industry.
+## Hello World! 👋
+### My name is Ethan. I build internal business applications for the Agriculture industry.
 
 #### Languages, Frameworks, Tools:
 <p float="left">
