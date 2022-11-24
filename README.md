@@ -31,6 +31,6 @@
 📫 Reach me: ethant@pacificcrestwd.com
 
 <!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanTuning&show_icons=true&theme=dark&orgs=Pacific-Crest-Web-and-Data" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanTuning&langs_count=6" />
--->
+<img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EthanTuning&count_private=true&show_icons=true&theme=dark&include_orgs=true&hide=issues,stars,contribs" />
+<img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=EthanTuning&langs_count=6&theme=dark&include_orgs=true" />
+
