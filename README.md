@@ -28,7 +28,7 @@
   <img style="margin-right: 10px;" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </p>
 
-📫 Reach me: ethant@pacificcrestwd.com
+📫 Reach me: ethant@groundwork.systems
 
 <!--
 <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EthanTuning&count_private=true&show_icons=true&theme=dark&include_orgs=true&hide=issues,stars,contribs" />
