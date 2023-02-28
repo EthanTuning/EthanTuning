@@ -1,8 +1,7 @@
-## Hello World! 👋
-### My name is Ethan. I build internal business applications for the Agriculture industry.
-
-#### Languages, Frameworks, Tools:
-<p float="left">
+<h1 align="center">Hello World! 👋</h1> 
+<h3 align="center">My name is Ethan. I build internal business applications for the Agriculture industry.</h3>
+<h4 align="center">Tools I use:</h4>
+<p align="center">
   <img style="margin-right: 10px;" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img style="margin-right: 10px;" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img style="margin-right: 10px;" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
@@ -28,8 +27,7 @@
   <img style="margin-right: 10px;" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </p>
 
-📫 Reach me: ethant@groundwork.systems
-
+<h4 align="center">📫 Reach me: ethant@groundwork.systems</h4>
 <!--
 <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EthanTuning&count_private=true&show_icons=true&theme=dark&include_orgs=true&hide=issues,stars,contribs" />
 <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=EthanTuning&langs_count=6&theme=dark&include_orgs=true" />
