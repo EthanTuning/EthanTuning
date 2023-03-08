@@ -1,5 +1,6 @@
 <h1 align="center">Hello World! 👋</h1> 
-<h3 align="center">My name is Ethan. I build internal business applications for the Agriculture industry.</h3>
+<h3 align="center">My name is Ethan.</h3>
+<h3 align="center">I build internal business applications for the Agriculture industry.</h3>
 <h4 align="center">Tools I use:</h4>
 <p align="center">
   <img style="margin-right: 10px;" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
