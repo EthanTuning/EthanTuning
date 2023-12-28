@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋</h1> 
 <h3 align="center">My name is Ethan.</h3>
 <h3 align="center">I craft dynamic solutions for diverse business needs.</h3>
-<h4 align="center">💾 Technologies I use:</h4>
+<h4 align="center">🛠️ Main Tools:</h4>
 <p align="center">
   <img style="margin-right: 10px;" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img style="margin-right: 10px;" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
