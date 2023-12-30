@@ -19,7 +19,7 @@
   <img style="margin-right: 10px;" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </p>
 
-<h4 align="center">📫 Reach me: ethant@groundwork.systems</h4>
+<h4 align="center">📫 Reach Me: ethant@groundwork.systems</h4>
 <!--
 <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EthanTuning&count_private=true&show_icons=true&theme=dark&include_orgs=true&hide=issues,stars,contribs" />
 <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=EthanTuning&langs_count=6&theme=dark&include_orgs=true" />
