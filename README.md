@@ -21,5 +21,4 @@
 
 <h4 align="center">📫 Reach Me: ethant@groundwork.systems</h4>
 <!--
-<img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EthanTuning&theme=dark&include_orgs=true" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanTuning&theme=dark&include_orgs=true" />
