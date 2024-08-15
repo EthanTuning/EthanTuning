@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋</h1> 
+<h1 align="center">Hi 👋</h1> 
 <h3 align="center">My name is Ethan.</h3>
 <h3 align="center">I craft dynamic solutions for diverse business needs.</h3>
 <h4 align="center">🛠️ Main Tools:</h4>
